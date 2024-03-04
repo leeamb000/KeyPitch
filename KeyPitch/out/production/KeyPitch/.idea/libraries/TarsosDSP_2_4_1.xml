@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TarsosDSP-2.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TarsosDSP-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
